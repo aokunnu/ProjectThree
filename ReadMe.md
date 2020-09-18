@@ -9,5 +9,5 @@ The steps below will guide you on how to retrieve and read the data:
 2. Run the file 'file_retrieval.py' by using the following command: $ python3 file_retrieval.py
 3. Run the file 'read_log.py' by using the following command:
 $ python3 read_log.py
-4. Run it and watch the magic happen!
+4. The file will now print the values
 
